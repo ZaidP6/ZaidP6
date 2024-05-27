@@ -1,8 +1,6 @@
 ## Hey! 👋 Soy Zaid  
-![Mi octogato](https://github.com/ZaidP6/ZaidP6/assets/117078911/5a46c7dd-328f-425c-80a7-fa9071f4d16a)
 
-## Sobre mí
-- 🌱 Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma en Salesianos de Triana
+🌱 Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma en Salesianos de Triana
 
 
 ### Programas
