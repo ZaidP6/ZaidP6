@@ -2,7 +2,7 @@
 
 🌱 Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma en Salesianos de Triana.
 
-[![ZaidP6's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidp6)](https://github.com/zaidp6/github-readme-stats)
+
 
 
 <!--
@@ -26,5 +26,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidp6&layout=compact&theme=vision-friendly-dark)](https://github.com/zaidp6/github-readme-stats)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidP6&layout=compact) [![ZaidP6's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaidP6)](https://github.com/ZaidP6/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZaidP6&repo=github-readme-stats)](https://github.com/ZaidP6/github-readme-stats)
 -->
