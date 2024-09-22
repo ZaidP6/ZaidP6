@@ -1,6 +1,8 @@
 ## Hey! 👋 Soy Zaid  
 
-🌱 Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma en Salesianos de Triana
+🌱 Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma en Salesianos de Triana.
+
+[![ZaidP6's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidp6)](https://github.com/zaidp6/github-readme-stats)
 
 
 <!--
