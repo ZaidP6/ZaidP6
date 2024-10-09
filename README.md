@@ -2,6 +2,8 @@
 
 🌱 Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma en Salesianos de Triana.
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pilar-aguilar-diaz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Zaiduck22/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Zaiduck22)  
+
 [![ZaidP6's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaidP6)](https://github.com/ZaidP6/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidP6&layout=compact)
 
 
