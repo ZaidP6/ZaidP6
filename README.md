@@ -19,7 +19,8 @@
 ### ⚙️ Herramientas y Tecnologías:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,bootstrap,git,github,idea,pycharm,figma,eclipse,spring,java,css,html,js,ts,angular,spring,py, powershell, postman, postgres, npm, nodejs, jquery, blender" />
+    <img src="https://skillicons.dev/icons?i=vscode,bootstrap,git,github,idea,pycharm,figma,eclipse,spring,java,css,html,js" />
+    <img src="https://skillicons.dev/icons?i=ts,angular,spring,py, powershell, postman, postgres, npm, nodejs, jquery, blender"/>
   </a>
 </p>
 
