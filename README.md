@@ -19,7 +19,7 @@
 ### ⚙️ Herramientas y Tecnologías:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,bootstrap,git,github" />
+    <img src="https://skillicons.dev/icons?i=vscode,bootstrap,git,github,idea,pycharm,figma,eclipse,spring,java,css,html,js,ts,angular" />
   </a>
 </p>
 
