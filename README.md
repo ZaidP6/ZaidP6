@@ -1,10 +1,44 @@
-## Hey! 👋 Soy Zaid  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fc2f1340-8bc1-4084-8612-dcc69c91ea7e" alt="Logo_final2" width="250"/>
+</p>
 
-🌱 Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma en Salesianos de Triana.
+ ## Hey! 👋 Soy **Zaid**  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pilar-aguilar-diaz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Zaiduck22/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Zaiduck22)  
+🌱 **Estudiante de Desarrollo de Aplicaciones Multiplataforma** en [Salesianos de Triana](https://www.salesianos-triana.com/). Apasionada por la tecnología y siempre buscando aprender algo nuevo.
 
-[![ZaidP6's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaidP6)](https://github.com/ZaidP6/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidP6&layout=compact)
+---
+
+### 🌍 Encuéntrame en:
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pilar-aguilar-diaz/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Zaiduck22/)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/Zaiduck22/)  
+
+---
+
+### ⚙️ Herramientas y Tecnologías:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,bootstrap,git,github" />
+  </a>
+</p>
+
+---
+
+### 📊 Mis estadísticas:
+[![ZaidP6's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaidP6)](https://github.com/ZaidP6/github-readme-stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidP6&layout=compact)
+
+
+---
+
+### 💡 Sobre mí:
+- 🔭 Actualmente, trabajando en proyectos para mejorar mis habilidades en desarrollo multiplataforma.
+- 👯 Buscando colaborar en proyectos de código abierto o con otros desarrolladores.
+- 💬 Pregúntame sobre programación, desarrollo móvil, o cualquier otra cosa.
+- 📫 Cómo contactarme: A través de mis redes sociales listadas arriba.
+- ⚡ Dato curioso: ¡Me encanta aprender nuevas tecnologías y herramientas!
+
 
 
 <!--
