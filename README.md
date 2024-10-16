@@ -10,18 +10,23 @@
 
 ### 🌍 Encuéntrame en:
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pilar-aguilar-diaz/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Zaiduck22/)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/Zaiduck22/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pilar-aguilar-diaz/) [![Instagram](https://img.shields.io/badge/Instagram-00a82d?style=for-the-badge&logo=instagram&logoColor=white&labelColor=00a82d)](https://www.instagram.com/Zai3dart/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Zaiduck22/)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/Zaiduck22/)  
 
 ---
 
-### ⚙️ Herramientas y Tecnologías:
+### ⚙️ Lenguajes:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,bootstrap,git,github,idea,pycharm,figma,eclipse,spring,java,css,html,js" />
-    <img src="https://skillicons.dev/icons?i=ts,angular,spring,py, powershell, postman, postgres, npm, nodejs, jquery, blender"/>
+    <img src="https://skillicons.dev/icons?i=java,css,html,js,ts,py,bootstrap,git,spring,jquery,postgres" />
   </a>
+</p>
+
+---
+
+### ⚙️ Programas y Herramientas:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,github,figma,eclipse,angular,nodejs,powershell,npm,postman,blender " />
 </p>
 
 ---
@@ -34,8 +39,7 @@
 ---
 
 ### 💡 Sobre mí:
-- 🔭 Actualmente, trabajando en proyectos para mejorar mis habilidades en desarrollo multiplataforma.
-- 👯 Buscando colaborar en proyectos de código abierto o con otros desarrolladores.
+- 🔭 Actualmente, estudiando segundo curso de DAM y mejorarando mis habilidades en desarrollo multiplataforma.
 - 💬 Pregúntame sobre programación, desarrollo móvil, o cualquier otra cosa.
 - 📫 Cómo contactarme: A través de mis redes sociales listadas arriba.
 - ⚡ Dato curioso: ¡Me encanta aprender nuevas tecnologías y herramientas!
@@ -43,6 +47,9 @@
 
 
 <!--
+
+- 👯 Buscando colaborar en proyectos de código abierto o con otros desarrolladores.
+
 **ZaidP6/ZaidP6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p align="left">
