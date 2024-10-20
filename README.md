@@ -42,17 +42,15 @@
 ---
 
 ### 🎨 Aficiones:
-- 🚴‍♂️ Ciclismo: Disfruto de pasear en bicicleta y explorar nuevos senderos.
-- 🎮 Videojuegos: Me encanta jugar a diferentes géneros, desde RPGs hasta estrategias.
-- 🎨 Arte: Me gusta dibujar y experimentar con diferentes técnicas artísticas.
-- 📚 Lectura: Disfruto de la lectura de novelas, especialmente de ciencia ficción y fantasía.
+- 🏍️ Apasionada por el mundo del motor y sobre todo de las motos. 
+- 🎮 Videojuegos: Me encanta jugar videojuegos, entre mis favoritos están Spider-Man, Horizon y Uncharted.
+- 🎨 Arte: Mi primer grado fue Animación 3D por tanto, en tiempo libre modelo personajes.
+- 📚 Lectura: Disfruto de la lectura de novelas, especialmente de ciencia ficción y fantasía. Una de mis favoritas es la saga de "Poliedrum".
 
 ---
 
 ### 📚 Aprendiendo:
-- 📱 Desarrollo móvil: Actualmente estoy mejorando mis habilidades en el desarrollo de aplicaciones móviles.
-- 🌐 Nuevas tecnologías: Estoy interesado en aprender sobre inteligencia artificial y machine learning.
-- 🔒 Seguridad informática: Explorando conceptos de ciberseguridad y cómo proteger aplicaciones.
+- 📱 Desarrollo móvil: Actualmente estoy estudiando DAM y por tanto, mejorando mis habilidades en el desarrollo de aplicaciones móviles.
 
 
 
