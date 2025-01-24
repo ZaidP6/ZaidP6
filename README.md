@@ -5,9 +5,17 @@
 ---
 
 ### 💡 Sobre mí:
-- 🔭 Actualmente, estudiando segundo curso de DAM y mejorarando mis habilidades en desarrollo multiplataforma.
-- 📫 Cómo contactarme: A través de mis redes sociales listadas abajo.
-- ⚡ Dato curioso: ¡La velocidad corre por mis venas y si es en dos ruedas mejor!
+- 💡 Mi lenguaje de programación principal es Java, pero también manejo Javascript/Typescript y tengo nociones de Python.
+- 🎓 He trabajado con frameworks como Spring Boot para el desarrollo Backend y Angular en el lado del Frontend.
+- 🌱 También cuento con experiencia en HTML5 y CSS3 para el diseño web.
+- 📱 En cuanto a desarrollo móvil, me he iniciado en Flutter para crear aplicaciones multiplataforma.
+- 💬 Domino el lenguaje SQL y suelo utilizar PostgreSQL como sistema gestor de bases de datos.
+- 📑 Me he integrado en equipos de trabajo aplicando metodologías ágiles para el desarrollo de proyectos.
+- 🎨 Para el diseño y prototipado, suelo utilizar herramientas como Figma.
+- 🚢 Tengo conocimientos básicos sobre el uso de contenedores con Docker.
+- 📄 Puedes echar un vistazo a mi CV para más información sobre mis proyectos y experiencia.
+- 📫 Cómo contactarme: A través de las redes sociales que encontrarás abajo.
+- ⚡ Dato curioso: ¡La velocidad me define, especialmente si se trata de dos ruedas!
 
 ---
 
@@ -37,6 +45,9 @@
 ### 📊 Mis estadísticas:
 [![ZaidP6's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaidP6)](https://github.com/ZaidP6/github-readme-stats) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidP6&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ZaidP6)](https://git.io/streak-stats)
+[![ZaidP6's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZaidP6&theme=react-dark)](https://github.com/ZaidP6)
+
 
 ---
 
