@@ -47,6 +47,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidP6&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ZaidP6)](https://git.io/streak-stats)
 [![ZaidP6's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZaidP6&theme=react-dark)](https://github.com/ZaidP6)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ZaidP6)](https://git.io/streak-stats)
+
+### 🏆 Trofeos de GitHub:
+[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=ZaidP6&theme=radical&column=9&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 ---
