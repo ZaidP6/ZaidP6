@@ -1,6 +1,8 @@
 ![Header](https://github.com/user-attachments/assets/e1a2d690-a66d-4ee5-bc2b-a8fdb8ee2fee)
 
-🌱 **Estudiante de Desarrollo de Aplicaciones Multiplataforma** en [Salesianos de Triana](https://www.salesianos-triana.com/). Apasionada por la tecnología y siempre buscando aprender algo nuevo.
+### 📚 Aprendiendo:
+- 📱 Desarrollo móvil: Actualmente estoy estudiando DAM  en [Salesianos de Triana](https://www.salesianos-triana.com/) y por tanto, mejorando mis habilidades en el desarrollo de aplicaciones móviles.
+
 
 ---
 
@@ -45,14 +47,10 @@
 ### 📊 Mis estadísticas:
 [![ZaidP6's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaidP6)](https://github.com/ZaidP6/github-readme-stats) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidP6&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ZaidP6)](https://git.io/streak-stats)
-[![ZaidP6's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZaidP6&theme=react-dark)](https://github.com/ZaidP6)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ZaidP6)](https://git.io/streak-stats)
+
 
 ### 🏆 Trofeos de GitHub:
 [![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=ZaidP6&theme=radical&column=9&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 
 ---
@@ -65,10 +63,6 @@
 
 ---
 
-### 📚 Aprendiendo:
-- 📱 Desarrollo móvil: Actualmente estoy estudiando DAM y por tanto, mejorando mis habilidades en el desarrollo de aplicaciones móviles.
-
-
 
 <!--
 - 👯 Buscando colaborar en proyectos de código abierto o con otros desarrolladores.
@@ -76,6 +70,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fc2f1340-8bc1-4084-8612-dcc69c91ea7e" alt="Logo_final2" width="250"/>
 </p>
+
+🌱 **Estudiante de Desarrollo de Aplicaciones Multiplataforma** en [Salesianos de Triana](https://www.salesianos-triana.com/). Apasionada por la tecnología y siempre buscando aprender algo nuevo.
 
  ## Hey! 👋 Soy **Zaid**  
 -->
