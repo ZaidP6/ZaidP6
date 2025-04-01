@@ -1,5 +1,6 @@
 
-![Header](https://github.com/user-attachments/assets/665f9501-cf81-48ff-bd7b-9f079d2aa4e1)
+![Header](https://github.com/user-attachments/assets/08607c69-9f64-4d5a-80ff-b2dc045b8e70)
+
 
 ### 📚 Aprendiendo:
 - 📱 Desarrollo móvil: Actualmente estoy estudiando DAM  en [Salesianos de Triana](https://www.salesianos-triana.com/) y por tanto, mejorando mis habilidades en el desarrollo de aplicaciones móviles.
