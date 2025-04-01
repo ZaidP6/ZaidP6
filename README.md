@@ -1,8 +1,8 @@
-![Header](https://github.com/user-attachments/assets/e1a2d690-a66d-4ee5-bc2b-a8fdb8ee2fee)
+
+![Header](https://github.com/user-attachments/assets/665f9501-cf81-48ff-bd7b-9f079d2aa4e1)
 
 ### 📚 Aprendiendo:
 - 📱 Desarrollo móvil: Actualmente estoy estudiando DAM  en [Salesianos de Triana](https://www.salesianos-triana.com/) y por tanto, mejorando mis habilidades en el desarrollo de aplicaciones móviles.
-
 
 ---
 
@@ -74,4 +74,6 @@
 🌱 **Estudiante de Desarrollo de Aplicaciones Multiplataforma** en [Salesianos de Triana](https://www.salesianos-triana.com/). Apasionada por la tecnología y siempre buscando aprender algo nuevo.
 
  ## Hey! 👋 Soy **Zaid**  
+
+ ![Header](https://github.com/user-attachments/assets/e1a2d690-a66d-4ee5-bc2b-a8fdb8ee2fee)
 -->
